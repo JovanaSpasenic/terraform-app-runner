@@ -6,5 +6,5 @@ variable "prefix" {
 variable "image" {
   type = string
 
-
 }
+
